@@ -369,7 +369,7 @@ Navbar
 }
 .hero{
   min-height: 40vh;
-  background: url(/starter/assets/main.jpeg) center/cover no-repeat;
+  background: url(/assets/main.jpeg) center/cover no-repeat;
   margin-bottom: 2rem;
   border-radius: var(--borderRadius);
   position: relative;
